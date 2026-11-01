@@ -1,6 +1,6 @@
 # FVGAP AI Bridge
 
-Private repository for the FVGAP trading bridge and its Phase 5 model package.
+Public repository for the FVGAP trading bridge and its Phase 5 model package.
 
 ## Files
 
